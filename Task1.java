@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//BASIC CALCULATOR CREATED BY RISHIRAAM GOPINATH
+//BY CALLING METHODS FOR INDIVIDUAL OPERATIONS
 public class Task1 {
 
     public static double add(double a, double b) {
@@ -77,3 +78,4 @@ public class Task1 {
         }
     }
 }
+
